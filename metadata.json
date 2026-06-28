@@ -1,0 +1,6 @@
+{
+  "name": "FocusFlow AI",
+  "description": "Premium AI-powered productivity mobile companion for students, professionals, and creators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
